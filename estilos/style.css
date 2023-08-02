@@ -52,11 +52,15 @@ main {
 }
 
 #login > #formulario {
-    font-size: 12px;
     display: block;
     padding: 10px;
 }
 
 #login > #formulario h1 {
     text-align: center;
+    margin-bottom: 10px;
+}
+
+#formulario > p {
+    font-size: 0.8em;
 }
